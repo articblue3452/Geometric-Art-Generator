@@ -32,7 +32,7 @@ python main.py
 
 ## Preview
 
-![Generated Artwork](assets/preview.png)
+![Generated Artwork](preview.png)
 
 ## Future Improvements
 - AI-assisted composition
